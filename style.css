@@ -1,0 +1,40 @@
+
+.navbar .collapse.navbar-collapse {
+   background-color: white;
+   flex-grow: inherit;
+   font-size: 18px;
+   color: black;
+  
+}
+
+.pie {
+    margin-top: 10px;
+    
+}
+
+.Carrousweel {
+    width: auto;
+    height: 200px;
+}
+
+.navbar-brand {
+    font-size: 50px;
+  
+}
+
+.navbar a{
+    color: black;
+}
+
+.hidden{
+    overflow-x: hidden;
+}
+
+h1{
+    font-family: 'Roboto Slab', serif;
+    
+     }
+
+h2{
+    font-family:  'Cardo', serif;;
+}     
